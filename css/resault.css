@@ -1,0 +1,41 @@
+.resault-section > div {
+  margin-bottom: 1.5rem;
+}
+
+.resault-form-placement > * {
+  margin-bottom: 1.5rem;
+}
+
+#resault-form {
+  padding: 1.5rem 2.2rem;
+  background-color: #e9ebf4;
+  border-radius: 8px;
+  text-align: center;
+  height: 14rem;
+}
+
+.resault-desc-placement > * {
+  margin-bottom: 1.5rem;
+}
+
+#resault-desc > * {
+  margin-bottom: 1.5rem;
+}
+
+#resault-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#resault-table td {
+  border: 1px solid #003764;
+  padding: 0.3rem 0.7rem;
+}
+
+.download-section {
+  text-align: center;
+}
+
+.download-section img {
+  width: 10vw;
+}

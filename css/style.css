@@ -1,0 +1,27 @@
+@import url(./font.css);
+@import url(./container.css);
+@import url(./calculate.css);
+@import url(./resault.css);
+@import url(./button.css);
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  color: #003764;
+}
+
+@media screen and (max-width: 700px) {
+  .container {
+    width: 92vw;
+  }
+
+  .main-container {
+    display: block;
+  }
+
+  .download-section img {
+    width: 30vw;
+  }
+}

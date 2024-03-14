@@ -1,0 +1,21 @@
+.container {
+  width: 90vw;
+  margin: auto;
+}
+
+.header-container {
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 0.9fr;
+  margin: 1.5rem auto 5rem;
+  column-gap: 3rem;
+}
+
+.footer-container {
+  text-align: center;
+  padding: 1.5rem 0;
+}
